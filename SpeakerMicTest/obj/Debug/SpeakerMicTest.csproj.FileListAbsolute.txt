@@ -1,0 +1,9 @@
+C:\Users\adnan\Desktop\SpeakerMicTest\SpeakerMicTest\bin\Debug\SpeakerMicTest.exe
+C:\Users\adnan\Desktop\SpeakerMicTest\SpeakerMicTest\bin\Debug\SpeakerMicTest.pdb
+C:\Users\adnan\Desktop\SpeakerMicTest\SpeakerMicTest\bin\Debug\NAudio.dll
+C:\Users\adnan\Desktop\SpeakerMicTest\SpeakerMicTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adnan\Desktop\SpeakerMicTest\SpeakerMicTest\obj\Debug\SpeakerMicTest.Form1.resources
+C:\Users\adnan\Desktop\SpeakerMicTest\SpeakerMicTest\obj\Debug\SpeakerMicTest.Properties.Resources.resources
+C:\Users\adnan\Desktop\SpeakerMicTest\SpeakerMicTest\obj\Debug\SpeakerMicTest.csproj.GenerateResource.Cache
+C:\Users\adnan\Desktop\SpeakerMicTest\SpeakerMicTest\obj\Debug\SpeakerMicTest.exe
+C:\Users\adnan\Desktop\SpeakerMicTest\SpeakerMicTest\obj\Debug\SpeakerMicTest.pdb
